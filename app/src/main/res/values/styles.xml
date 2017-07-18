@@ -1,0 +1,17 @@
+<resources>
+	
+	<!-- Base application theme. -->
+	<style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+		<!-- Customize your theme here. -->
+	</style>
+	
+	
+	<!-- 로그인 박스-->
+	<style name="EditTextBox">
+		<item name="android:background">@color/colorPrimary</item>
+		<item name="android:padding">10dp</item>
+		<item name="android:layout_gravity">center_horizontal</item>
+		<item name="android:textColor">#FFFFFF</item>
+		<item name="android:textColorHint">#FFFFFF</item>
+	</style>
+</resources>
